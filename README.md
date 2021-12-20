@@ -1,4 +1,4 @@
-#PROBLEM 2 : Ice tracking
+Ice tracking
 
 The solution for this problem helps solve global warming as best as it could by analysing the echograms and tracing the air-ice and ice-rock boundaries.
 
