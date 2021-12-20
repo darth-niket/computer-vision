@@ -97,14 +97,6 @@ Another way of solving this problem is to set all the values above the x coordin
 A result sample named feedbackresult.png is available in the repository.
 
 
-#References
-
-1. https://medium.com/analytics-vidhya/hidden-markov-model-part-1-of-the-hmm-series-3f7fea28a08
-
-2. Discussed the problem with Deepan Elango, Akshay Venkatesh Murthy.
-
-3. Slides from the lectures.
-
 
 
 
